@@ -1,0 +1,1626 @@
+/* Quotes from https://gist.github.com/erickedji/68802 */
+{
+"Don't worry about what anybody else is going to do. The best way to\n"
+"predict the future is to invent it.\n"
+"-- Alan Kay\n"
+},{
+"Premature optimization is the root of all evil (or at least most of it)\n"
+"in programming.\n"
+"-- Donald Knuth\n"
+},{
+"Lisp has jokingly been called \"the most intelligent way to misuse a\n"
+"computer\". I think that description is a great compliment because it\n"
+"transmits the full flavor of liberation: it has assisted a number of our\n"
+"most gifted fellow humans in thinking previously impossible thoughts.\n"
+"-- Edsger Dijkstra, CACM, 15:10\n"
+},{
+"Keep away from people who try to belittle your ambitions. Small people\n"
+"always do that, but the really great make you feel that you, too, can\n"
+"become great.\n"
+"-- Mark Twain\n"
+},{
+"What Paul does, and does very well, is to take ideas and concepts that\n"
+"are beautiful in the abstract, and brings them down to a real world\n"
+"level. That's a rare talent to find in writing these days.\n"
+"-- Jeff \"hemos\" Bates, Director, OSDN; Co-evolver, Slashdot\n"
+},{
+"Since programmers create programs out of nothing, imagination is our\n"
+"only limitation. Thus, in the world of programming, the hero is the one\n"
+"who has great vision. Paul Graham is one of our contemporary heroes. He\n"
+"has the ability to embrace the vision, and to express it plainly. His\n"
+"works are my favorites, especially the ones describing language design.\n"
+"He explains secrets of programming, languages, and human nature that can\n"
+"only be learned from the hacker experience. This book shows you his\n"
+"great vision, and tells you the truth about the nature of hacking.\n"
+"-- Yukihiro \"Matz\" Matsumoto, creator of Ruby\n"
+},{
+"To follow the path:\n"
+"    look to the master,\n"
+"    follow the master,\n"
+"    walk with the master,\n"
+"    see through the master,\n"
+"    become the master.\n"
+"-- Modern zen Poem\n"
+},{
+"No problem should ever have to be solved twice.\n"
+"-- Eric S. Raymond, How to become a hacker\n"
+},{
+"Attitude is no substitute for competence.\n"
+"-- Eric S. Raymond, How to become a hacker\n"
+},{
+"It is said that the real winner is the one who lives in today but able\n"
+"to see tomorrow.\n"
+"-- Juan Meng, Reviewing \"The future of ideas\" by Lawrence Lessig\n"
+},{
+"Fools ignore complexity. Pragmatists suffer it. Some can avoid it.\n"
+"Geniuses remove it.\n"
+"-- Alan J. Perlis (Epigrams in programming)\n"
+},{
+"A year spent in artificial intelligence is enough to make one believe in\n"
+"God.\n"
+"-- Alan J. Perlis (Epigrams in programming)\n"
+},{
+"Dealing with failure is easy: Work hard to improve. Success is also easy\n"
+"to handle: You've solved the wrong problem. Work hard to improve.\n"
+"-- Alan J. Perlis (Epigrams in programmi ng)\n"
+},{
+"Within a computer natural language is unnatural.\n"
+"-- Alan J. Perlis (Epigrams in programming)\n"
+},{
+"You think you know when you learn, are more sure when you can write,\n"
+"even more when you can teach, but certain when you can program.\n"
+"-- Alan J. Perlis (Epigrams in programming)\n"
+},{
+"Adapting old programs to fit new machines usually means adapting new\n"
+"machines to behave like old ones.\n"
+"-- Alan J. Perlis (Epigrams in programming)\n"
+},{
+"A little learning is a dangerous thing.\n"
+"-- Alexander Pope\n"
+},{
+"Computer science education cannot make anybody an expert programmer any\n"
+"more than studying brushes and pigment can make somebody an expert\n"
+"painter.\n"
+"-- Eric Raymond\n"
+},{
+"Einstein argued that there must be simplified explanations of nature,\n"
+"because God is not capricious or arbitrary.\n"
+"-- Frederick P. Brooks, No Sliver Bullet.\n"
+},{
+"Students should be evaluated on how well they can achieve the goals they\n"
+"strived to achieve within a realistic context. Students need to learn to\n"
+"do things, not know things.\n"
+"-- Roger Schank, Engines for Education\n"
+},{
+"We remember what we learn when we care about performing better and when\n"
+"we believe that what we have been asked to do is representative of\n"
+"reality.\n"
+"-- Roger Schank, Engines for Education\n"
+},{
+"There really is no learning without doing.\n"
+"-- Roger Schank, Engines for Education\n"
+},{
+"We really have to get over the idea that some stuff is just worth\n"
+"knowing even if you never do anything with it. Human memories happily\n"
+"erase stuff that has no purpose, so why try to fill up children's heads\n"
+"with such stuff?\n"
+"-- Roger Schank, Engines for Education\n"
+},{
+"La tactique, c'est ce que vous faites quand il y a quelque chose à\n"
+"faire; la stratégie, c'est ce que vous faites quand il n'y a rien à\n"
+"faire.\n"
+"-- Xavier Tartacover\n"
+},{
+"The only problems we can really solve in a satisfactory manner are those\n"
+"that finally admit a nicely factored solution.\n"
+"-- E. W. Dijkstra, The humble programmer\n"
+},{
+"The best way to learn to live with our limitations is to know them.\n"
+"--E. W. Dijkstra, The humble programmer\n"
+},{
+"This challenge, viz. the confrontation with the programming task, is so\n"
+"unique that this novel experience can teach us a lot about ourselves. It\n"
+"should deepen our understanding of the processes of design and creation,\n"
+"it should give us better control over the task of organizing our\n"
+"thoughts. If it did not do so, to my taste we should no deserve the\n"
+"computer at all!  It has allready taught us a few lessons, and the one I\n"
+"have chosen to stress in this talk is the following. We shall do a much\n"
+"better programming job, provided that we approach the task with a full\n"
+"appreciation of its tremenduous difficulty, provided that we stick to\n"
+"modest and elegant programming languages, provided that we respect the\n"
+"intrinsec limitations of the human mind and approach the task as Very\n"
+"Humble Programmers.\n"
+"-- E. W. Dijkstra, The humble programmer\n"
+},{
+"Ce n'est que par les relations qu'on entretient entre nos différentes\n"
+"connaissances qu'elles nous restent accessibles.\n"
+"-- Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)\n"
+},{
+"We now come to the decisive step of mathematical abstraction: we forget\n"
+"about what the symbols stand for. ...[The mathematician] need not be\n"
+"idle; there are many operations which he may carry out with these\n"
+"symbols, without ever having to look at the things they stand for.\n"
+"-- Hermann Weyl, The Mathematical Way of Thinking\n"
+},{
+"An expert is, according to my working definition \"someone who doesn't\n"
+"need to look up answers to easy questions\".\n"
+"-- Eric Lippert.\n"
+},{
+"The programmer must seek both perfection of part and adequacy of\n"
+"collection.\n"
+"-- Alan J. Perlis\n"
+},{
+"Thus, programs must be written for people to read, and only incidentally\n"
+"for machines to execute.\n"
+"-- Alan J. Perlis\n"
+},{
+"We control complexity by building abstractions that hide details when\n"
+"appropriate. We control complexity by establishing conventional\n"
+"interfaces that enable us to construct systems by combining standard,\n"
+"well-understood pieces in a ``mix and match'' way. We control complexity\n"
+"by establishing new languages for describing a design, each of which\n"
+"emphasizes particular aspects of the design and deemphasizes others.\n"
+"-- Alan J. Perlis\n"
+},{
+"The acts of the mind, wherein it exerts its power over simple ideas, are\n"
+"chiefly these three: 1. Combining several simple ideas into one compound\n"
+"one, and thus all complex ideas are made. 2. The second is bringing two\n"
+"ideas, whether simple or complex, together, and setting them by one\n"
+"another so as to take a view of them at once, without uniting them into\n"
+"one, by which it gets all its ideas of relations. 3. The third is\n"
+"separating them from all other ideas that accompany them in their real\n"
+"existence: this is called abstraction, and thus all its general ideas\n"
+"are made.\n"
+"-- John Locke, An Essay Concerning Human Understanding (1690)\n"
+},{
+"Lisp programmers know the value of everything but the cost of nothing.\n"
+"-- Alan J. Perlis\n"
+},{
+"An interpreter raises the machine to the level of the user program; a\n"
+"compiler lowers the user program to the level of the machine language.\n"
+"-- SICP\n"
+},{
+"Everything should be made as simple as possible, but no simpler.\n"
+"-- Albert Einstein\n"
+},{
+"The great dividing line between success and failure can be expressed in\n"
+"five words: \"I did not have time.\"\n"
+"-- WestHost weekly newsletter 14 Feb 2003\n"
+},{
+"When your enemy is making a very serious mistake, don't be impolite and\n"
+"disturb him.\n"
+"-- Napoleon Bonaparte (allegedly)\n"
+},{
+"A charlatan makes obscure what is clear; a thinker makes clear what is\n"
+"obscure.\n"
+"-- Hugh Kingsmill\n"
+},{
+"There are two ways of constructing a software design; one way is to make\n"
+"it so simple that there are obviously no deficiencies, and the other way\n"
+"is to make it so complicated that there are no obvious deficiencies. The\n"
+"first method is far more difficult.\n"
+"-- C. A. R. Hoare\n"
+},{
+"And if you go too far up, abstraction-wise, you run out of oxygen.\n"
+"Sometimes smart thinkers just don't know when to stop, and they create\n"
+"these absurd, all-encompassing, high-level pictures of the universe that\n"
+"are all good and fine, but don't actually mean anything at all.\n"
+"-- Joel Spolsky		\n"
+},{
+"The three chief virtues of a programmer are: Laziness, Impatience and\n"
+"Hubris.\n"
+"-- Larry Wall (Programming Perl)\n"
+},{
+"All non-trivial abstractions, to some degree, are leaky.\n"
+"-- Joel Spolsky (The Law of Leaky Abstractions)\n"
+},{
+"XML wasn't designed to be edited by humans on a regular basis.\n"
+"-- Guido van Rossum\n"
+},{
+"Premature abstraction is an equally grevious sin as premature\n"
+"optimization.\n"
+"-- Keith Devens\n"
+},{
+"You can have premature generalization as well as premature optimization.\n"
+"-- Bjarne Stroustrup\n"
+},{
+"He causes his sun to rise on the evil and the good, and sends rain on\n"
+"the righteous and the unrighteous.\n"
+"-- Matthew 5:45\n"
+},{
+"A language that doesn't affect the way you think about programming, is\n"
+"not worth knowing.\n"
+"-- Alan Perlis\n"
+},{
+"Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir\n"
+"de la faire plus courte. (I have made this letter so long only because I\n"
+"did not have the leisure to make it shorter.)\n"
+"-- Blaise Pascal (Lettres Provinciales)\n"
+},{
+"Men never do evil so completely and cheerfully as when they do it from\n"
+"religious conviction.\n"
+"-- Blaise Pascal (attributed)\n"
+},{
+"Everybody makes their own fun. If you don't make it yourself, it ain't\n"
+"fun -- it's entertainment.\n"
+"-- David Mamet (as relayed by Joss Whedon)\n"
+},{
+"If we wish to count lines of code, we should not regard them as *lines\n"
+"produced* but as *lines spent*.\n"
+"-- Edsger Dijkstra		\n"
+},{
+"Sometimes a man with too broad a perspective reveals himself as having\n"
+"no real perspective at all. A man who tries too hard to see every side\n"
+"may be a man who is trying to avoid choosing any side. A man who tries\n"
+"too hard to seek a deeper truth may be trying to hide from the truth he\n"
+"already knows.  That is not a sign of intellectual sophistication and\n"
+"\"great thinking\". It is a demonstration of moral degeneracy and\n"
+"cowardice.\n"
+"-- Steven Den Beste\n"
+},{
+"Omit needless words.\n"
+"-- William Strunk, Jr. (The Elements of Style)\n"
+},{
+"I have never met a man so ignorant that I couldn't learn something from\n"
+"him.\n"
+"-- Galileo Galilei\n"
+},{
+"A society that puts equality -- in the sense of equality of outcome --\n"
+"ahead of freedom will end up with neither equality nor freedom. The use\n"
+"of force to achieve equality will destroy freedom, and the force,\n"
+"introduced for good purposes, will end up in the hands of people who use\n"
+"it to promote their own interests.\n"
+"-- Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)\n"
+},{
+"Philosophy: the finding of bad reasons for what one believes by\n"
+"instinct.\n"
+"-- Brave New World (paraphrased)\n"
+},{
+"Of all tyrannies a tyranny sincerely exercised for the good of its\n"
+"victims may be the most oppressive. It may be better to live under\n"
+"robber barons than under omnipotent moral busybodies, The robber baron's\n"
+"cruelty may sometimes sleep, his cupidity may at some point be satiated;\n"
+"but those who torment us for own good will torment us without end, for\n"
+"they do so with the approval of their own conscience.\n"
+"-- C.S. Lewis\n"
+},{
+"Fools! Don't they know that tears are a woman's most effective weapon?\n"
+"-- Catwoman (The Batman TV Series, episode 83)\n"
+},{
+"It's like a condom; I'd rather have it and not need it than need it and\n"
+"not have it.\n"
+"-- some chick in Alien vs. Predator, when asked why she\n"
+"always carries a gun\n"
+},{
+"C++ is history repeated as tragedy. Java is history repeated as farce.\n"
+"-- Scott McKay\n"
+},{
+"Simplicity takes effort-- genius, even.\n"
+"-- Paul Graham\n"
+},{
+"Show, don't tell.\n"
+"-- unknown\n"
+},{
+"In God I trust; I will not be afraid. What can mortal man do to me?\n"
+"-- David (Psalm 56:4)\n"
+},{
+"Linux is only free if your time has no value.\n"
+"-- Jamie Zawinski\n"
+},{
+"Code is poetry.\n"
+"-- wordpress.org\n"
+},{
+"If you choose not to decide, you still have made a choice.\n"
+"-- Rush (Freewill)\n"
+},{
+"Civilization advances by extending the number of important operations\n"
+"which we can perform without thinking about them.\n"
+"-- Alfred North Whitehead (Introduction to Mathematics)		\n"
+},{
+"The function of wisdom is to discriminate between good and evil.\n"
+"-- Cicero\n"
+},{
+"The reason to do animation is caricature. Good caricature picks out the\n"
+"essense of the statement and removes everything else. It's not simply\n"
+"about reproducing reality; It's about bumping it up.\n"
+"-- Brad Bird, writer and director, The Incredibles\n"
+},{
+"Mistakes were made.\n"
+"-- Ronald Reagan\n"
+},{
+"I would rather be an optimist and be wrong than a pessimist who proves\n"
+"to be right. The former sometimes wins, but never the latter.\n"
+"-- \"Hoots\"\n"
+},{
+"What is truth?\n"
+"-- Pontius Pilate\n"
+},{
+"Life moves pretty fast. If you don't stop and look around once in a\n"
+"while, you could miss it.\n"
+"-- Ferris Bueller\n"
+},{
+"Lisp is worth learning for the profound enlightenment experience you\n"
+"will have when you finally get it; that experience will make you a\n"
+"better programmer for the rest of your days, even if you never actually\n"
+"use Lisp itself a lot.\n"
+"-- Eric S. Raymond\n"
+},{
+"Any sufficiently complicated C or Fortran program contains an ad hoc,\n"
+"informally specified, bug-ridden, slow implementation of half of Common\n"
+"Lisp.\n"
+"-- Philip Greenspun (Greenspun's Tenth Rule)\n"
+},{
+"I was talking recently to a friend who teaches at MIT. His field is hot\n"
+"now and every year he is inundated by applications from would-be\n"
+"graduate students. \"A lot of them seem smart,\" he said. \"What I can't\n"
+"tell is whether they have any kind of taste.\"\n"
+"-- Paul Graham\n"
+},{
+"The direct pursuit of happiness is a recipe for an unhappy life.\n"
+"-- Donald Campbell\n"
+},{
+"It's no trick for talented people to be interesting, but it's a gift to\n"
+"be interested. We want an organization filled with interested people.\n"
+"-- Randy S. Nelson (dean of Pixar University)\n"
+},{
+"Why teach drawing to accountants? Because drawing class doesn't just\n"
+"teach people to draw. It teaches them to be more observant. There's no\n"
+"company on earth that wouldn't benefit from having people become more\n"
+"observant.\n"
+"-- Randy S. Nelson (dean of Pixar University)\n"
+},{
+"All problems in computer science can be solved by another level of\n"
+"indirection.\n"
+"-- Butler Lampson	\n"
+},{
+"A designer knows he has arrived at perfection not when there is no\n"
+"longuer anything to add, but when there is no longuer anything to take\n"
+"away.\n"
+"-- Antoine de St Exupery.\n"
+},{
+"For the things we have to learn before we can do them, we learn by doing\n"
+"them.\n"
+"-- Aristotle.\n"
+},{
+"There are many ways to avoid success in life, but the most sure-fire\n"
+"just might be procrastination.\n"
+"-- Hara Estroff Marano.\n"
+},{
+"PI seconds is a nanocentury.\n"
+"-- [fact]\n"
+},{
+"A non negative binary integer value x is a power of 2 iff (x & (x-1)) is\n"
+"0 using 2's complement arithmetic.\n"
+"-- [fact]\n"
+},{
+"While I’ve always appreciated beautiful code, I share Jonathan’s concern\n"
+"about studying it too much. I think studying beauty in music and\n"
+"painting has led us to modern classical music and painting that the\n"
+"majority of us just don’t get. Beauty can be seen when it emerges, but\n"
+"isn’t something to strive for in isolation of a larger context. In the\n"
+"software world, the larger context would be the utility of the software\n"
+"to the end user.\n"
+"-- [A comment on a blog]\n"
+},{
+"Dont give users the opportunity to lock themselves.\n"
+"-- unknown\n"
+},{
+"Any fool can make the simple complex, only a smart person can make the\n"
+"complex simple.\n"
+"-- unknown\n"
+},{
+"To do something well you have to love it. So to the extent you can\n"
+"preserve hacking as something you love, you're likely to do it well. Try\n"
+"to keep the sense of wonder you had about programming at age 14. If\n"
+"you're worried that your current job is rotting your brain, it probably\n"
+"is.\n"
+"-- Paul Graham.\n"
+},{
+"- If you give him a penny for his thoughts, you'd get change.\n"
+"- Not the sharpest knife in the drawer.\n"
+"- A prime candidate for natural deselection.\n"
+"-- [Ideas for flamewars]\n"
+},{
+"What I didn't understand was that the value of some new acquisition\n"
+"wasn't the difference between its retail price and what I paid for it.\n"
+"It was the value I derived from it. Stuff is an extremely illiquid\n"
+"asset. Unless you have some plan for selling that valuable thing you got\n"
+"so cheaply, what difference does it make what it's \"worth?\" The only way\n"
+"you're ever going to extract any value from it is to use it. And if you\n"
+"don't have any immediate use for it, you probably never will.\n"
+"-- Paul Graham\n"
+},{
+"Only bad designers blame their failings on the users.\n"
+"-- unknown\n"
+},{
+"Humans aren't rational -- they rationalize. And I don't just mean \"some\n"
+"of them\" or \"other people\". I'm talking about everyone. We have a \"logic\n"
+"engine\" in our brains, but for the most part, it's not the one in the\n"
+"driver's seat -- instead it operates after the fact, generating\n"
+"rationalizations and excuses for our behavior.\n"
+"-- Paul Buchheit\n"
+},{
+"What do Americans look for in a car? I've heard many answers when I've\n"
+"asked this question. The answers include excellent safety ratings, great\n"
+"gas mileage, handling, and cornering ability, among others. I don't\n"
+"believe any of these. That's because the first principle of the Culture\n"
+"Code is that the only effective way to understand what people truly mean\n"
+"is to ignore what they say. This is not to suggest that people\n"
+"intentionally lie or misrepresent themselves. What it means is that,\n"
+"when asked direct questions about their interests and preferences,\n"
+"people tend to give answers they believe the questioner wants to hear.\n"
+"Again, this is not because they intend to mislead. It is because people\n"
+"respond to these questions with their cortexes, the parts of their\n"
+"brains that control intelligence rather than emotion or instinct. They\n"
+"ponder a question, they process a question, and when they deliver an\n"
+"answer, it is the product of deliberation. They believe they are telling\n"
+"the truth. A lie detector would confirm this. In most cases, however,\n"
+"they aren't saying what they mean.\n"
+"-- The culture code.\n"
+},{
+"When all you have is a hammer, everything looks like a nail.\n"
+"-- unknown\n"
+},{
+"Good coders code, great reuse.\n"
+"-- http://www.catonmat.net\n"
+},{
+"The lesson of the story might appear to be that self-interested and\n"
+"ambitious people in power are often the cause of wastefulness in\n"
+"developing countries. But self-interested and ambitious people are in\n"
+"positions of power, great and small, all over the world. In many places,\n"
+"they are restrained by the law, the press, and democratic opposition.\n"
+"Cameroon's tragedy is that there is nothing to hold self-interest in\n"
+"check.\n"
+"-- Tim Harford\n"
+},{
+"To solve your problems you must learn new skills, adapt new thought\n"
+"patterns, and become a different person than you were before that\n"
+"problem.  God has crafted you for success. In the middle of every\n"
+"adversity lie your best opportunities. Discover it, build upon it and\n"
+"move forward in your journey to live an extraordinary life.  You owe it\n"
+"to yourself to live a great life. Don’t let negative thoughts pull you\n"
+"down. Be grateful and open to learn and grow.\n"
+"-- http://secretsofstudying.com/\n"
+},{
+"If there is a will, there is a way.\n"
+"-- unknown\n"
+},{
+"Having large case statements in an object-oriented language is a sure\n"
+"sign your design is flawed.\n"
+"-- [Fixing architecture flaws in Rails' ORM]\n"
+},{
+"Being a programmer is the same way. The only way to be a good programmer\n"
+"is to write code. When you realize you haven't been writing much code\n"
+"lately, and it seems like all you do is brag about code you wrote in the\n"
+"past, and people start looking at you funny while you're shooting your\n"
+"mouth off, realize it's because they know. They might not even know they\n"
+"know, but they know. So, yes, doing what you love brings success, and by\n"
+"all means, throw yourself a nice big party, buy yourself a nice car,\n"
+"soak up the adulation of an adoring crowd. Then shut the fuck up and get\n"
+"back to work.\n"
+"-- Sincerity Theory\n"
+},{
+"Another feature about this guy is his low threshold of boredom. He'll\n"
+"pick up on a task and work frantically at it, accomplishing wonders in a\n"
+"short time and then get bored and drop it before its properly finished.\n"
+"He'll do nothing but strum his guitar and lie around in bed for several\n"
+"days after.  Thats also part of the pattern too; periods of frenetic\n"
+"activity followed by periods of melancholia, withdrawal and inactivity.\n"
+"This is a bipolar personality.\n"
+"-- The bipolar lisp programmer\n"
+},{
+"My dream is that people adopt it on its own merits. We're not trying to\n"
+"bend Ruby on Rails to fit the enterprise, we're encouraging enterprises\n"
+"to bend to Ruby on Rails. Come if you like it, stay away if you don't.\n"
+"We're not going head over heels to accommodate the enterprise or to lure\n"
+"them away from Java. That's how you end up with Java, if you start\n"
+"bending to special interest groups.\n"
+"-- David Heinemeier Hansson (Ruby On Rails' creator)\n"
+},{
+"New eyes have X-ray vision.  [someone that hasn't written it is more\n"
+"likely to spot the bug. \"someone\" can be you after a break]\n"
+"-- William S. Annis\n"
+},{
+"So - what are the most important problems in software engineering? I’d\n"
+"answer “dealing with complexity”.\n"
+"-- Mark Chu-Carroll\n"
+},{
+"So the mere constraint of staying in regular contact with us will push\n"
+"you to make things happen, because otherwise you'll be embarrassed to\n"
+"tell us that you haven't done anything new since the last time we\n"
+"talked.\n"
+"-- Paul Graham (a talk at Y Combinator, for startup creators).\n"
+},{
+"The choice of the university is mostly important for the piece of paper\n"
+"you get at the end. The education you get depends on you.\n"
+"-- Andreas Zwinkau\n"
+},{
+"Remember that you are humans in the first place and only after that\n"
+"programmers.\n"
+"-- Alexandru Vancea\n"
+},{
+"Humans differ from animals to the degree that they are not merely an end\n"
+"result of their conditioning, but are able to reflect on their\n"
+"experiences and strategies, and apply insight to make changes in the way\n"
+"they live to modify the outcome.\n"
+"-- SlideTrombone (comment on \"Programming can ruin your life\")\n"
+},{
+"As builders and creators finding the perfect solution should not be our\n"
+"main goal. We should find the perfect problem.\n"
+"-- Isaac (blog comment)\n"
+},{
+"Just like carpentry, measure twice cut once.\n"
+"-- Super-sizing YouTube with Python (Mike Solomon, mike@youtube.com)\n"
+},{
+"The good thing about reinventing the wheel is that you get a round one.\n"
+"-- Douglas Crockford (Author of JSON and JsLint)\n"
+},{
+"I feel it is everybodies obligation to reach for the best in themselves\n"
+"and use that for the interest of mankind.\n"
+"-- Corneluis (comment on 'Are you going to change the world? (Really?)')\n"
+},{
+"Abstraction is a form of data compression: absolutely necessary, because\n"
+"human short-term memory is so small, but the critically important aspect\n"
+"of abstraction is the algorithm that gets you from the name back to the\n"
+"\"uncompressed\" details.\n"
+"-- Bruce Wilder (blog post comment)\n"
+},{
+"Have you ever noticed that when you sit down to write something, half\n"
+"the ideas that end up in it are ones you thought of while writing it?\n"
+"The same thing happens with software. Working to implement one idea\n"
+"gives you more ideas.\n"
+"-- Paul Graham, The other road ahead.\n"
+},{
+"In general, we can think of data as defined by some collection of\n"
+"selectors and constructors, together with specified conditions that\n"
+"these procedures must fulfill in order to be a valid representation.\n"
+"-- SICP, What is meant by data?\n"
+},{
+"Resume writing is just like dating, or applying for a bank loan, in that\n"
+"nobody wants you if you're desperate.\n"
+"-- Steve Yegge.\n"
+},{
+"Mastering isn’t a survival instinct; it’s an urge to excel. Mastering is\n"
+"one of the experiences that delineates us from animals. It is striving\n"
+"to be more tomorrow than we are today; to perfectly pitch the ball over\n"
+"home plate; to craft the perfect sentence in an article; to open the\n"
+"oven and feel the warm, richly-scented cloud telling you dinner is going\n"
+"to be absolutely extraordinary. We humans crave perfection, to be\n"
+"masters of our domain, to distinguish ourselves by sheer skill and\n"
+"prowess.\n"
+"-- Joesgoals.com\n"
+},{
+"It(mastering)’s knowing what you are doing.\n"
+"-- Joesgoals.com\n"
+},{
+"Well then. How could you possibly live without automated refactoring\n"
+"tools? How else could you coordinate the caterpillar-like motions of all\n"
+"Java’s identical tiny legs, its thousands of similar parts?\n"
+"I’ll tell you how:\n"
+"Ruby is a butterfly.\n"
+"-- Stevey, Refactoring Trilogy, Part 1.\n"
+},{
+"You will never become a Great Programmer until you acknowledge that you\n"
+"will always be a Terrible Programmer.\n"
+"You will remain a Great Programmer for only as long as you acknowledge\n"
+"that you are still a Terrible Programmer.\n"
+"-- Marc (http://kickin-the-darkness.blogspot.com/)\n"
+},{
+"If I tell you I'm good, you would probably think I'm boasting. If I tell\n"
+"you I'm no good, you know I'm lying.\n"
+"-- Bruce Lee\n"
+},{
+"Let me try to get this straight: Lisp is a language for describing\n"
+"algorithms. This was JohnMcCarthy's original purpose, anyway: to build\n"
+"something more convenient than a Turing machine. Lisp is not about file,\n"
+"socket or GUI programming - Lisp is about expressive power. (For\n"
+"example, you can design multiple object systems for Lisp, in Lisp. Or\n"
+"implement the now-fashionable AOP. Or do arbitrary transformations on\n"
+"parsed source code.) If you don't value expressive power, Lisp ain't for\n"
+"you. I, personally, would prefer Lisp to not become mainstream: this\n"
+"would necessarily involve a dumbing down.\n"
+"-- VladimirSlepnev\n"
+},{
+"Je ne vous impose aucune contrainte, aucune limite. Surprenez-moi,\n"
+"étonnez-moi, défiez-moi, défiez-vous vous-même. Vous avez le choix: vous\n"
+"pouvez rester dans l'ombre ou en sortir en étant parmis les trop rares\n"
+"exceptions à avoir réussi. L'heure est venue d'aller bien au delà de\n"
+"votre potentiel. L'heure est venue maintenant de descendre vraiment en\n"
+"vous. L'heure est venue de démontrer pourquoi vous êtes l'élite, les\n"
+"quelques élus, les rares lueurs qui offrent à cette compagnie son\n"
+"caractère exceptionnel, sa luminescence.\n"
+"-- Le PDG de NURV, dans \"Anti-trust\".\n"
+},{
+"If something isn’t working, you need to look back and figure out what\n"
+"got you excited in the first place.\n"
+"-- David Gorman (ImThere.com)\n"
+},{
+"Opportunities that present themselves to you are the consequence -- at\n"
+"least partially -- of being in the right place at the right time. They\n"
+"tend to present themselves when you're not expecting it -- and often\n"
+"when you are engaged in other activities that would seem to preclude you\n"
+"from pursuing them. And they come and go quickly -- if you don't jump\n"
+"all over an opportunity, someone else generally will and it will vanish.\n"
+"-- Marc Andreessen (http://blog.pmarca.com/)\n"
+},{
+"Pay attention to opportunity cost at all times. Doing one thing means\n"
+"not doing other things. This is a form of risk that is very easy to\n"
+"ignore, to your detriment.\n"
+"-- Marc Andreessen (http://blog.pmarca.com/)\n"
+},{
+"Seize any opportunity, or anything that looks like opportunity. They are\n"
+"rare, much rarer than you think...\n"
+"-- Nassim Nicholas Taleb, \"The Black Swan\".\n"
+},{
+"I think that a lot of programmers are ignoring an important point when\n"
+"people talk about reducing code repetition on large projects.\n"
+"Part of the idea is that large projects are intrinsically *wrong*. That\n"
+"you should be looking at making a number of smaller projects that are\n"
+"composable, even if you never end up reusing one of those smaller\n"
+"projects elsewhere.\n"
+"-- Dan Nugent\n"
+},{
+"We tend to seek easy, single-factor explanations of success. For most\n"
+"important things, though, success actually requires avoiding many\n"
+"separate causes of failure.\n"
+"-- Jared Diamond\n"
+},{
+"Things which matter most must never be at the mercy of things which\n"
+"matter least.\n"
+"-- Johann Wolfgang Von Goethe (1749-1832)\n"
+},{
+"I think the root of your mistake is saying that macros don't scale to\n"
+"larger groups. The real truth is that macros don't scale to stupider\n"
+"groups.\n"
+"-- Paul Graham, on the Lightweight Languages mailing list.\n"
+},{
+"Argue with idiots, and you become an idiot.\n"
+"If you compete with slaves you become a slave.\n"
+"-- Paul Graham and Norbert Weiner, respectively\n"
+},{
+"Always dive down into a problem and get your hands on the deepest issue\n"
+"behind the problem. All other considerations are to dismissed as\n"
+"\"engineering details\"; they can be sorted out after the basic problem\n"
+"has been solved.\n"
+"-- Chris Crawford\n"
+},{
+"Don't have good ideas if you aren't willing to be responsible for them.\n"
+"-- Alan Perlis\n"
+},{
+"It is impossible to sharpen a pencil with a blunt axe. It is equally\n"
+"vain to try to do it with ten blunt axes instead. \n"
+"-- Edsger Dijkstra\n"
+},{
+"If we wish to count lines of code, we should not regard them as lines\n"
+"produced but as lines spent.\n"
+"-- Edsger Dijkstra\n"
+},{
+"The most damaging phrase in the language is, It's always been done that\n"
+"way.\n"
+"-- Rear Admiral Grace Hopper\n"
+},{
+"Getting back to failing early, I've learned it's important to completely\n"
+"fail. Get fired. Shoot the project, then burn its corpse. Melt the CVS\n"
+"repository and microwave the backup CDs. When things go wrong, I've\n"
+"often tried to play the hero from start to finish. Guess what? Some\n"
+"projects are doomed no matter what. Some need skills I don't possess.\n"
+"And some need a fresh face.\n"
+"-- Reginald Braithwaite\n"
+},{
+"The only thing a man should ever be 100% convinced of is his own\n"
+"ignorance.\n"
+"-- DJ MacLean\n"
+},{
+"The best people and organizations have the attitude of wisdom: The\n"
+"courage to act on what they know right now and the humility to change\n"
+"course when they find better evidence.\n"
+"The quest for management magic and breakthrough ideas is overrated;\n"
+"being a master of the obvious is underrated.\n"
+"Jim Maloney is right: Work is an overrated activity\n"
+"-- Bob Sutton\n"
+},{
+"In theory, there’s no difference between theory and practice. But in\n"
+"practice, there is.\n"
+"-- Albert Einstein\n"
+},{
+"Act from reason, and failure makes you rethink and study harder.\n"
+"Act from faith, and failure makes you blame someone and push harder.\n"
+"--  Erik Naggum\n"
+},{
+"Measure everything you can about the product, and you'll start seeing\n"
+"patterns.\n"
+"-- Max Levchin, PayPal founder, Talk at StartupSchool2007\n"
+},{
+"Something Confusing about \"Hard\":\n"
+"It's tempting to think that if it's hard, then it's valuable.\n"
+"Most valuable things are hard.\n"
+"Most hard things are completely useless -- (picture of someone smashing\n"
+"their head through concrete blocks kung-fu style).\n"
+"Hard DOES NOT EQUATE TO BEING valuable.\n"
+"Remember Friendster back in the day?\n"
+"You'd sign in, invite friends, have 25 friends, go to their profile, and\n"
+"then it'd show how you were connected to each one.\n"
+"That's an impressive [some geeky CS jargon] Cone traversal of a tree -\n"
+"100 million string comparisons per page -- it won't scale.\n"
+"Used to take a minute per page to load, and Friendster died a painful\n"
+"death.\n"
+"MySpace -- not interested in solving problems\n"
+"They use the shortcut of \"Miss Fitzpatrick is in your extended network\"\n"
+"(i.e. even when you're not even signed up for MySpace)\n"
+"They didn't solve the hard problem. But they make the more relevant\n"
+"assumption that you want to be connected to hot women. [LOL]\n"
+"Shows Alexa graph showing that in early 2005 Myspace took off, and\n"
+"quickly bypassed Friendster and never looked back.\n"
+"-- Max Levchin, PayPal founder, Talk at StartupSchool2007\n"
+},{
+"Quality of the people is better than the quality of the business idea.\n"
+"Crappy people can screw up the best idea in the world.\n"
+"-- Hadi Partovi & Ali Partovi (iLike.com), Talk at StartupSchool2007\n"
+},{
+"The only constant in the world of hi-tech is change.\n"
+"-- Mark Ward\n"
+},{
+"Write it properly first. It's easier to make a correct program fast,\n"
+"than to make a fast program correct.\n"
+"-- http://www.cpax.org.uk/prg/\n"
+},{
+"J'ai toujours préféré la folie des passions à la sagesse de\n"
+"l'indifférence.\n"
+"-- Anatole France\n"
+},{
+"You can’t get to version 500 if you don’t start with a version 1.\n"
+"-- BetterExplained.com\n"
+},{
+"The wonderful and frustrating thing about understanding yourself is that\n"
+"nobody can do it for you.\n"
+"-- BetterExplained.com\n"
+},{
+"When you have eliminated the impossible, whatever remains, however\n"
+"improbable, must be the truth.\n"
+"-- Sherlock Holmes\n"
+},{
+"In order to understand what another person is saying, you must assume\n"
+"that it is true and try to find out what it could be true of.\n"
+"-- George Miller\n"
+},{
+"A journey of a thousand miles must begin with a single step.\n"
+"-- Lao­Tzu\n"
+},{
+"C’s great for what it’s great for.\n"
+"-- Ben Hoyts (micropledge)\n"
+},{
+"There is one meaning [for static in C]: a global variable that is\n"
+"invisible outside the current scope, be it a function or a file.\n"
+"-- Paolo Bonzini\n"
+},{
+"Processors don't get better so that they can have more free time.\n"
+"Processors get better so _you_ can have more free time.\n"
+"-- LeCamarade (freeshells.ch)\n"
+},{
+"The venerable master Qc Na was walking with his student, Anton.  Hoping to\n"
+"prompt the master into a discussion, Anton said \"Master, I have heard that\n"
+"objects are a very good thing - is this true?\"  Qc Na looked pityingly at\n"
+"his student and replied, \"Foolish pupil - objects are merely a poor man's\n"
+"closures.\"\n"
+"    Chastised, Anton took his leave from his master and returned to his cell,\n"
+"intent on studying closures.  He carefully read the entire \"Lambda: The\n"
+"Ultimate...\" series of papers and its cousins, and implemented a small\n"
+"Scheme interpreter with a closure-based object system.  He learned much, and\n"
+"looked forward to informing his master of his progress.\n"
+"    On his next walk with Qc Na, Anton attempted to impress his master by\n"
+"saying \"Master, I have diligently studied the matter, and now understand\n"
+"that objects are truly a poor man's closures.\"  Qc Na responded by hitting\n"
+"Anton with his stick, saying \"When will you learn? Closures are a poor man's\n"
+"object.\"  At that moment, Anton became enlightened.\n"
+"-- Anton van Straaten (Na = Norman Adams, Qa = Christian Queinnec)\n"
+},{
+"Understanding why C++ is the way it is helps a programmer use it well. A deep\n"
+"understanding of a tool is essential for an expert craftsman.\n"
+"-- Bjarne Stroustrap\n"
+},{
+"No art, however minor, demands less than total dedication if you want to\n"
+"excel in it.\n"
+"-- Alberti\n"
+},{
+"The minute you put the blame on someone else you’ve switch things from\n"
+"being a problem you can control to a problem outside of your control.\n"
+"-- engtech (internetducttape.com)\n"
+},{
+"State is the root of all evil. In particular functions with side effects\n"
+"should be avoided.\n"
+"-- OO Sucks (bluetail.com)\n"
+},{
+"Ils ne sont pas forts parce qu'ils sont forts. Ils sont forts parce que\n"
+"nous sommes faibles.\n"
+"-- Ragala Khalid\n"
+},{
+"It is better to be quiet and thought a fool than to open your mouth and\n"
+"remove all doubt.\n"
+"-- WikiHow\n"
+},{
+"A tail call allows a function to return the result of another function\n"
+"without leaving an entry on the stack. Tail recursion is a specific case\n"
+"of tail calling.\n"
+"-- ASPN : Python Cookbook : Explicit Tail Call\n"
+},{
+"Simplicity means the achievement of maximum effect with minimum means.\n"
+"-- Dr. Koichi Kawana\n"
+},{
+"Normality is the route to nowhere.\n"
+"-- Ridderstrale & Nordstorm, Funky Business\n"
+},{
+"The problem is that Microsoft just has no taste. And I don't mean that\n"
+"in a small way, I mean that in a big way.\n"
+"-- Steve Jobs\n"
+},{
+"Do you want to sell sugared water all your life or do you want to change\n"
+"the world?\n"
+"-- Steve Jobs, to John Sculley (former Pepsi executive)\n"
+},{
+"1 - Creativity and innovation always build on the past.\n"
+"2 - The past always tries to control the creativity that builds on it.\n"
+"3 - Free societies enable the future by limiting the past.\n"
+"4 - Ours is less and less a free society.\n"
+"-- Lawrence Lessig, Free Culture.\n"
+},{
+"Good work is no done by ‘humble’ men.\n"
+"-- H. Hardy, A mathematician's apology.\n"
+},{
+"Simplicity and pragmatism beat complexity and theory any day.\n"
+"-- Dennis (blog comment)\n"
+},{
+"The proof is by reductio ad absurdum, and reductio ad absurdum, which\n"
+"Euclid loved so much, is one of a mathematician’s finest weapons. It is\n"
+"a far finer gambit than any chess gambit: a chess player may offer the\n"
+"sacrifice of a pawn or even a piece, but a mathematician offers the\n"
+"game.\n"
+"-- G. H. Hardy\n"
+},{
+"Remember, always be yourself ... unless you suck!\n"
+"-- Joss Whedon\n"
+},{
+"All great things require great dedication.\n"
+"-- Chuck Norris(?)\n"
+},{
+"I'm always happy to trade performance for readability as long as the\n"
+"former isn't already scarce.\n"
+"-- Crayz (Commentor on blog.raganwald.com)\n"
+},{
+"You have to write for your audience. I would never write (1..5).map\n"
+"&'*2' in Java when I could write\n"
+"ListFactoryFactory.getListFactoryFromResource(\n"
+"    new ResourceName('com.javax.magnitudes.integers').\n"
+"setLowerBound(1).setUpperBound(5).setStep(1).applyFunctor(\n"
+"    new Functor () { public void eval (x) { return x * 2; } }))\n"
+"I'm simplifying, of course, I've left out the security and logging\n"
+"wrappers.\n"
+"-- Reginald Braithwait\n"
+},{
+"The definition of insanity is doing the same thing over and over again\n"
+"and expecting different results.\n"
+"-- Benjamin Franklin\n"
+},{
+"A no uttered from the deepest conviction is better than a yes merely\n"
+"uttered to please or what is worse, to avoid trouble.\n"
+"-- Mahatma Gandhi\n"
+},{
+"I think it is wise, and only honest, to warn you that my goal is\n"
+"immodest. It is not my purpose to \"transfer knowledge\" to you that,\n"
+"subsequently, you can forget again. My purpose is no less than to\n"
+"effectuate in each of you a noticeable, irreversable change. I want you\n"
+"to gain, for the rest of your lives, the insight that beautiful proofs\n"
+"are not \"found\" by trial anf error but are the result of a consciously\n"
+"applied design discipline. I want you to raise your quality standards. I\n"
+"mean, if 10 years from now, when you are doing something quick and\n"
+"dirty, you suddenly visualize that I am looking over your shoulders and\n"
+"say to yourself \"Dijkstra would not have liked this\", well, that would\n"
+"be enough immortality for me.\n"
+"-- E. W. Dijkstra\n"
+},{
+"The general principle for complexity design is this: Think locally, act\n"
+"locally.\n"
+"-- Richard P. Gabriel & Ron Goldman, Mob Software: The Erotic Life of Code\n"
+},{
+"Programming is the art of figuring out what you want so precisely that\n"
+"even a machine can do it.\n"
+"-- Some guy who isn't famous\n"
+},{
+"Hence my urgent advice to all of you to reject the morals of the\n"
+"bestseller society and to find, to start with, your reward in your own\n"
+"fun. This is quite feasible, for the challenge of simplification is so\n"
+"fascinating that, if we do our job properly, we shall have the greatest\n"
+"fun in the world.\n"
+"-- E. W. Dijkstra, On the nature of computing science.\n"
+},{
+"Remember: you are alone. Every time you can get help from someone,\n"
+"it is an opportunity: you should eagerly size it. But then, promptly\n"
+"return to normal mode: you are alone and you must be prepared to solve\n"
+"every problem yourself.\n"
+"-- Eric KEDJI\n"
+},{
+"Making All Software Into Tools Reduces Risk.\n"
+"-- smoothspan.com\n"
+},{
+"Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit\n"
+"that. But it is nicer to ordinary people.\n"
+"-- Matz, LL2\n"
+},{
+"C and Lisp stand at opposite ends of the spectrum; they're each great at\n"
+"what the other one sucks at.\n"
+"-- Steve Yegge, Tour de Babel.\n"
+},{
+"Two people should stay together if together they are better people than\n"
+"they would be individually.\n"
+"-- ?\n"
+},{
+"To the optimist, the glass is half full. To the pessimist, the glass is\n"
+"half empty. To the engineer, the glass is twice as big as it needs to\n"
+"be.\n"
+"-- author unknown (quoted in `Robust Systems', Gerald Jay Suseman)\n"
+},{
+"It is practically impossible to teach good programming to students that\n"
+"have had a prior exposure to BASIC: as potential programmers they are\n"
+"mentally mutilated beyond hope of regeneration.\n"
+"-- Edsger Dijkstra\n"
+},{
+"Whatever is worth doing at all, is worth doing well.\n"
+"-- Earl of Chesterfield\n"
+},{
+"Rules of Optimization:\n"
+"Rule 1: Don’t do it.\n"
+"Rule 2 (for experts only): Don’t do it yet.\n"
+"-- M.A. Jackson\n"
+},{
+"More computing sins are committed in the name of efficiency (without\n"
+"necessarily achieving it) than for any other single reason - including\n"
+"blind stupidity.\n"
+"-- W.A. Wulf\n"
+},{
+"We should forget about small efficiencies, say about 97% of the time:\n"
+"premature optimization is the root of all evil.\n"
+"-- Donald Knuth\n"
+},{
+"The best is the enemy of the good.\n"
+"-- Voltaire\n"
+},{
+"The job of a leader today is not to create followers. It’s to create\n"
+"more leaders.\n"
+"-- Ralph Nader\n"
+},{
+"The president was visiting NASA headquarters and stopped to talk to a\n"
+"man who was holding a mop. “And what do you do?” he asked. The man, a\n"
+"janitor, replied, “I’m helping to put a man on the moon, sir.”\n"
+"-- The little book of leadership\n"
+},{
+"Only make new mistakes.\n"
+"-- Phil Dourado\n"
+},{
+"You can recognize truth by its beauty and simplicity. When you get it\n"
+"right, it is obvious that it is right.\n"
+"-- Richard Feynman\n"
+},{
+"Talkers are no good doers.\n"
+"-- William Shakespeare, \"Henry VI\"\n"
+},{
+"Photography is painting with light.\n"
+"-- Eric Hamilton\n"
+},{
+"Good artists copy. Great artists steal.\n"
+"-- Pablo Picasso\n"
+},{
+"A guideline in the process of stepwise refinement should be the\n"
+"principle to decompose decisions as much as possible, to untangle\n"
+"aspects which are only seemingly interdependent, and to defer those\n"
+"decisions which concern details of representation as long as possible.\n"
+"-- Niklaus Wirth\n"
+},{
+"Vigorous writing is concise. A sentence should contain no unnecessary\n"
+"words, a paragraph no unnecessary sentences, for the same reason that a\n"
+"drawing should have no unnecessary lines and a machine no unnecessary\n"
+"parts. This requires not that the writer make all sentences short or\n"
+"avoid all detail and treat subjects only in outline, but that every word\n"
+"tell.\n"
+"-- William Strunk, Jr. (The Elements of Style)\n"
+},{
+"The problem is that small examples fail to convince, and large examples\n"
+"are too big to follow.\n"
+"-- Steve Yegge.\n"
+},{
+"We are the sum of our behaviours; excellence therefore is not an act but\n"
+"a habit.\n"
+"-- Aristotle.\n"
+},{
+"The purpose of abstraction is not to be vague, but to create a new\n"
+"semantic level in which one can be absolutely precise.\n"
+"-- Edsger Dijkstra\n"
+},{
+"Every man prefers belief to the exercise of judgment.\n"
+"-- Seneca\n"
+},{
+"It’s hard to grasp abstractions if you don’t understand what they’re\n"
+"abstracting away from.\n"
+"-- Nathan Weizenbaum\n"
+},{
+"That is one of the most distinctive differences between school and the\n"
+"real world: there is no reward for putting in a good effort. In fact,\n"
+"the whole concept of a \"good effort\" is a fake idea adults invented to\n"
+"encourage kids. It is not found in nature.\n"
+"-- Paul Graham\n"
+},{
+"I find that the harder I work, the more luck I seem to have.\n"
+"-- Thomas Jefferson\n"
+},{
+"Don't stay in bed, unless you can make money in bed.\n"
+"-- George Burns\n"
+},{
+"If everything seems under control, you're not going fast enough.\n"
+"-- Mario Andretti\n"
+},{
+"Chance favors the prepared mind.\n"
+"-- Louis Pasteur\n"
+},{
+"Controlling complexity is the essence of computer programming.\n"
+"-- Brian Kernigan\n"
+},{
+"The function of good software is to make the complex appear to be\n"
+"simple.\n"
+"-- Grady Booch\n"
+},{
+"Programmers are in a race with the Universe to create bigger and better\n"
+"idiot-proof programs, while the Universe is trying to create bigger and\n"
+"better idiots.  So far the Universe is winning.\n"
+"-- Rich Cook\n"
+},{
+"A hacker on a roll may be able to produce–in a period of a few\n"
+"months–something that a small development group (say, 7-8 people) would\n"
+"have a hard time getting together over a year.  IBM used to report that\n"
+"certain programmers might be as much as 100 times as productive as other\n"
+"workers, or more.\n"
+"-- Peter Seebach\n"
+},{
+"The best programmers are not marginally better than merely good ones.\n"
+"They are an order-of-magnitude better, measured by whatever standard:\n"
+"conceptual creativity, speed, ingenuity of design, or problem-solving\n"
+"ability.\n"
+"-- Randall E. Stross\n"
+},{
+"A great lathe operator commands several times the wage of an average\n"
+"lathe operator, but a great writer of software code is worth 10,000\n"
+"times the price of an average software writer.\n"
+"-- Bill Gates\n"
+},{
+"Measuring programming progress by lines of code is like measuring\n"
+"aircraft building progress by weight.\n"
+"-- Bill Gates\n"
+},{
+"First learn computer science and all the theory.  Next develop a\n"
+"programming style.  Then forget all that and just hack.\n"
+"-- George Carrette\n"
+},{
+"To iterate is human, to recurse divine.\n"
+"-- L. Peter Deutsch\n"
+},{
+"The best thing about a boolean is even if you are wrong, you are only\n"
+"off by a bit.\n"
+"-- Anonymous\n"
+},{
+"Should array indices start at 0 or 1?  My compromise of 0.5 was rejected\n"
+"without, I thought, proper consideration.\n"
+"-- Stan Kelly-Bootle\n"
+},{
+"The use of COBOL cripples the mind; its teaching should therefore be\n"
+"regarded as a criminal offense.\n"
+"-- E.W. Dijkstra\n"
+},{
+"It is practically impossible to teach good programming style to students\n"
+"that have had prior exposure to BASIC.  As potential programmers, they\n"
+"are mentally mutilated beyond hope of regeneration.\n"
+"-- E. W. Dijkstra\n"
+},{
+"One of the main causes of the fall of the Roman Empire was that–lacking\n"
+"zero–they had no way to indicate successful termination of their C\n"
+"programs.\n"
+"-- Robert Firth\n"
+},{
+"Saying that Java is nice because it works on all OSes is like saying\n"
+"that anal sex is nice because it works on all genders.\n"
+"-- Alanna\n"
+},{
+"If Java had true garbage collection, most programs would delete\n"
+"themselves upon execution.\n"
+"-- Robert Sewell\n"
+},{
+"Software is like sex: It’s better when it’s free.\n"
+"-- Linus Torvalds\n"
+},{
+"Any code of your own that you haven’t looked at for six or more months\n"
+"might as well have been written by someone else.\n"
+"-- Eagleson’s Law\n"
+},{
+"Good programmers use their brains, but good guidelines save us having to\n"
+"think out every case.\n"
+"-- Francis Glassborow\n"
+},{
+"Considering the current sad state of our computer programs, software\n"
+"development is clearly still a black art, and cannot yet be called an\n"
+"engineering discipline.\n"
+"-- Bill Clinton\n"
+},{
+"If debugging is the process of removing bugs, then programming must be\n"
+"the process of putting them in.\n"
+"-- Edsger W. Dijkstra\n"
+},{
+"Always code as if the guy who ends up maintaining your code will be a\n"
+"violent psychopath who knows where you live.\n"
+"-- Martin Golding\n"
+},{
+"Everything that can be invented has been invented.\n"
+"-- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899\n"
+},{
+"I think there’s a world market for about 5 computers.\n"
+"-- Thomas J. Watson, Chairman of the Board, IBM, circa 1948\n"
+},{
+"It would appear that we have reached the limits of what it is possible\n"
+"to achieve with computer technology, although one should be careful with\n"
+"such statements, as they tend to sound pretty silly in 5 years. \n"
+"-- John Von Neumann, circa 1949\n"
+},{
+"But what is it good for?\n"
+"-- Engineer at the Advanced Computing Systems Division of IBM,\n"
+"commenting on the microchip, 1968\n"
+},{
+"There is no reason for any individual to have a computer in his home.\n"
+"-- Ken Olson, President, Digital Equipment Corporation, 1977\n"
+},{
+"640K ought to be enough for anybody.\n"
+"-- Bill Gates, 1981\n"
+},{
+"Windows NT addresses 2 Gigabytes of RAM, which is more than any\n"
+"application will ever need.\n"
+"-- Microsoft, on the development of Windows NT, 1992\n"
+},{
+"We will never become a truly paper-less society until the Palm Pilot\n"
+"folks come out with WipeMe 1.0.\n"
+"-- Andy Pierson\n"
+},{
+"If it keeps up, man will atrophy all his limbs but the push-button\n"
+"finger.\n"
+"-- Frank Lloyd Wright\n"
+},{
+"Functional programming is like describing your problem to a\n"
+"mathematician.  Imperative programming is like giving instructions to\n"
+"an idiot.\n"
+"-- arcus, #scheme on Freenode\n"
+},{
+"Its a shame that the students of our generation grew up with windows and\n"
+"mice because that tainted our mindset not to think in terms of powerful\n"
+"tools. Some of us are just so tainted that we will never recover.\n"
+"-- Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp\n"
+},{
+"Lisp is a programmable programming language.\n"
+"-- John Foderaro\n"
+},{
+"I guess, when you're drunk, every woman looks beautiful and every\n"
+"language looks (like) a Lisp :)\n"
+"-- Lament, #scheme@freenode.net\n"
+},{
+"Many of life's failures are people who did not realize how close they\n"
+"were to success when they gave up.\n"
+"-- Thomas Edison\n"
+},{
+"You must always work not just within but below your means. If you can\n"
+"handle three elements, handle only two. If you can handle ten, then\n"
+"handle five. In that way the ones you do handle, you handle with more\n"
+"ease, more mastery and you create a feeling of strength in reserve.\n"
+"-- Pablo Picasso\n"
+},{
+"When you’ve got the code all ripped apart, it’s like a car that’s all\n"
+"disassembled. You’ve got all the parts tying all over your garage and\n"
+"you have to replace the broken part or the car will never run. It’s not\n"
+"fun until the code gets back to the baseline again.\n"
+"-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).\n"
+},{
+},{
+"Well, if you talk about programming to a group of programmers who use\n"
+"the same language, they can become almost evangelistic about the\n"
+"language. They form a tight-knit community, hold to certain beliefs, and\n"
+"follow certain rules in their programming. It’s like a church with a\n"
+"programming language for a Bible.\n"
+"-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).\n"
+},{
+"It’s a problem if the design doesn’t let you add features at a later\n"
+"date. If you have to redo a program, the hours you spend can cause you\n"
+"to lose your competitive edge. A flexible program demonstrates the\n"
+"difference between a good designer and someone who is just getting a\n"
+"piece of code out.\n"
+"-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).\n"
+},{
+"[How friendly will this machine be?] Well, I don’t think it’s a matter\n"
+"of friendliness, because ultimately if the program is going to\n"
+"accomplish anything of value, it will probably be relatively complex.\n"
+"-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).\n"
+},{
+"Some people suggest that machines would be friendlier if input could be\n"
+"in a natural language. But natural language is probably the worst kind\n"
+"of input because it can be quite ambiguous. The process of retrieving\n"
+"information from the computer would be so time-consuming that you would\n"
+"be better off spending that time getting the information directly from\n"
+"an expert.\n"
+"-- Gary Kildall (inventor of CP/M, one of the first OS for the micro).\n"
+},{
+"The only way of discovering the limits of the possible is to venture a\n"
+"little way past them into the impossible.\n"
+"-- Arthur C. Clarke\n"
+},{
+"Any sufficiently advanced technology is undistinguishable from magic.\n"
+"-- Arthur C. Clarke\n"
+},{
+"That is the inevitable human response. We’re reluctant to believe that\n"
+"great discoveries are in the air. We want to believe that great\n"
+"discoveries are in our heads—and to each party in the multiple the\n"
+"presence of the other party is invariably cause for suspicion.\n"
+"-- Malcolm Gladwell, Who says big ideas are rare? \n"
+},{
+"Good ideas are out there for anyone with the wit and the will to find\n"
+"them.\n"
+"-- Malcolm Gladwell, Who says big ideas are rare?\n"
+},{
+"A person won't become proficient at something until he or she has done\n"
+"it many times. In other words., if you want someone to be really good at\n"
+"building a software system, he or she will have to have built 10 or more\n"
+"systems of that type.\n"
+"-- Philip Greenspun\n"
+},{
+"A person won't retain proficiency at a task unless he or she has at one\n"
+"time learned to perform that task very rapidly. Learning research\n"
+"demonstrates that the skills of people who become accurate but not fast\n"
+"deteriorate much sooner than the skills of people who become both\n"
+"accurate and fast.\n"
+"-- Philip Greenspun\n"
+},{
+"Training research shows that if you get speed now you can get quality\n"
+"later. But if you don't get speed you will never get quality in the long\n"
+"run.\n"
+"-- Philip Greenspun\n"
+},{
+"Beware of bugs in the above code; I have only proved it correct, not\n"
+"tried it.\n"
+"-- Donald Knuth\n"
+},{
+"Wear your best for your execution and stand dignified. Your last\n"
+"recourse against randomness is how you act — if you can’t control\n"
+"outcomes, you can control the elegance of your behaviour. You will\n"
+"always have the last word.\n"
+"-- Nassim Taleb\n"
+},{
+"The human brain starts working the moment you are born and never stops\n"
+"until you stand up to speak in public.\n"
+"-- Anonymous\n"
+},{
+"The trouble with the world is that the stupid are always cocksure and\n"
+"the intelligent are always filled with doubt.\n"
+"-- Bertrand Russell\n"
+},{
+"Simple, clear purpose and principles give rise to complex, intelligent\n"
+"behavior. Complex rules and regulations give rise to simple, stupid\n"
+"behavior.\n"
+"-- Dee Hock, Birth of the Chaordic Age\n"
+},{
+"C++ is like teenage sex: Everybody is talking about it all the time,\n"
+"only few are really doing it.\n"
+"-- unknown\n"
+},{
+"Functional programming is to algorithms as the ubiquitous little black\n"
+"dress is to women's fashion.\n"
+"-- Mark Tarver (of \"The bipolar Lisp programmer\" fame)\n"
+},{
+"Java and C++ make you think that the new ideas are like the old ones.\n"
+"Java is the most distressing thing to hit computing since MS-DOS.\n"
+"-- Alan Kay\n"
+},{
+"For complex systems, the compiler and development environment need to be\n"
+"in the same language that its supporting. It's the only way to grow\n"
+"code.\n"
+"-- Alan Kay\n"
+},{
+"Simple things should be simple. Complex things should be possible.\n"
+"-- Alan Kay\n"
+},{
+"I invented the term Object-Oriented, and I can tell you I did not have\n"
+"C++ in mind.\n"
+"-- Alan Kay\n"
+},{
+"All creativity is an extended form of a joke.\n"
+"-- Alan Kay\n"
+},{
+"If you don't fail at least 90 percent of the time, you're not aiming\n"
+"high enough.\n"
+"-- Alan Kay\n"
+},{
+"Revolutions come from standing on the shoulders of giants and facing in\n"
+"a better direction.\n"
+"-- Alan Kay\n"
+},{
+"Ce n’est que par les beaux sentiments qu’on parvient à la fortune !\n"
+"-- Charles Baudelaire, Conseils aux jeunes littérateurs.\n"
+},{
+"La haine est une liqueur précieuse, un poison plus cher que celui des\n"
+"Borgia, - car il est fait avec notre sang, notre santé, notre sommeil,\n"
+"et les deux tiers de notre amour! Il faut en être avare!\n"
+"-- Charles Baudelaire, Conseils aux jeunes littérateurs.\n"
+},{
+"L’art qui satisfait le besoin le plus impérieux sera toujours le plus\n"
+"honoré.\n"
+"-- Charles Baudelaire, Conseils aux jeunes littérateurs.\n"
+},{
+"If it looks like a duck, walks like a duck, and quacks like a duck, it's\n"
+"a duck.\n"
+"-- Official definition of \"duck typing\"\n"
+},{
+"In OO, it's the data that is the \"important\" thing: you define the class\n"
+"which contains member data, and only incidentally contains code for\n"
+"manipulating the object. In FP, it's the code that's important: you\n"
+"define a function which contains code for working with the data, and\n"
+"only incidentally define what the data is.\n"
+"-- almkgor, on reddit\n"
+},{
+"Des mots simples, quand ils sont bien utilisés, font faire à des gens\n"
+"ordinaires des choses extraordinaires.\n"
+"-- Khaled TANGAO\n"
+},{
+"It was Edison who said ‘1% inspiration, 99% perspiration’. That may have\n"
+"been true a hundred years ago. These days it's ‘0.01% inspiration,\n"
+"99.99% perspiration’, and the inspiration is the easy part.\n"
+"-- Linux Torvalds\n"
+},{
+"The greatest challenge to any thinker is stating the problem in a way\n"
+"that will allow a solution.\n"
+"-- Bertrand Russell\n"
+},{
+"No matter how much you plan you’re likely to get half wrong anyway. So\n"
+"don’t do the ‘paralysis through analysis’ thing. That only slows\n"
+"progress and saps morale.\n"
+"-- 37 Signal, Getting real\n"
+},{
+"[Innovation] comes from saying no to 1,000 things to make sure we don’t\n"
+"get on the wrong track or try to do too much. We’re always thinking\n"
+"about new markets we could enter, but it’s only by saying no that you\n"
+"can concentrate on the things that are really important.\n"
+"-- Steve Jobs\n"
+},{
+"The ability to simplify means to eliminate the unnecessary so that the\n"
+"necessary may speak.\n"
+"-- Hans Hofmann\n"
+},{
+"However beautiful the strategy, you should occasionally look at the\n"
+"results.\n"
+"-- Winston Churchill\n"
+},{
+"Genius is 1% inspiration and 99% perspiration.\n"
+"-- Thomas Edison\n"
+},{
+"I’d rather write programs to write programs than write programs.\n"
+"-- Richard Sites\n"
+},{
+"Heureux l'étudiant qui comme la Rivière peut suivre son cours sans\n"
+"quitter son lit...\n"
+"-- Sebastien, sur commentcamarche.net\n"
+},{
+"Side projects are less masturbatory than reading RSS, often more\n"
+"useful than MobileMe, more educational than the comments on Reddit,\n"
+"and usually more fun than listening to keynotes.\n"
+"-- Chris Wanstrath\n"
+},{
+":nunmap can also be used outside of a monastery.\n"
+"-- Vim user manual\n"
+},{
+"I had to learn how to teach less, so that more could be learned.\n"
+"-- Tim Gallwey, The inner game of work\n"
+},{
+"Workers of the world, the chains that bind you are not held in place by\n"
+"a ruling class, a \"superior\" race, by society, the state, or a leader.\n"
+"They are held in place by none other than yourself. Those who seek to\n"
+"exploit are not themselves free, for they place no value in freedom. Who\n"
+"is it that really employs you and commands you to pick up your daily\n"
+"load? And who is it that you allow to pass judgment on the adequacy of\n"
+"your toil? Who have you empowered to dangle the carrot before you and\n"
+"threaten with disapproval? Who, when you wake each morning, sends you\n"
+"off to what you call your work?\n"
+"Is there an \"I want to\" behind all your \"I have to,\" or have you been so\n"
+"long forgotten to yourself that \"I want\" exists only as an idea in your\n"
+"head? If you have disconnected from your soul's desire and are drowning\n"
+"in an ocean of \"have to,\" then rise up and overthrow your master. Begin\n"
+"the journey toward emancipation.  Work only in such a way that you are\n"
+"truly self-employed.\n"
+"-- Tim Gallwey, The inner game of work\n"
+},{
+"The Work Begins Anew, The Hope Rises Again, And The Dream Lives On.\n"
+"-- Ted Kennedy\n"
+},{
+"The hardest part of design ... is keeping features out.\n"
+"-- Donald Norman \n"
+},{
+"Before software can be reusable it first has to be usable.\n"
+"-- Ralph Johnson \n"
+},{
+"The opposite of love is not hate, it is indifference.\n"
+"-- Elie Wiesel\n"
+},{
+"- Gbi de fer\n"
+"- Howa!\n"
+"- On va en France\n"
+"- Non, je vais pas!\n"
+"- Pourquoi?\n"
+"- Parce ki y a pas agouti là-bas!\n"
+"-- Gbi de fer\n"
+},{
+"Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects\n"
+"innovants pour te distinguer des autres. Tu verras que tu te feras\n"
+"remarquer très facilement...\n"
+"-- Khaled Tangao\n"
+},{
+"Perpetual optimism is a force multiplier.\n"
+"-- Colin Powell\n"
+},{
+"Be the change you want to see in the world.\n"
+"-- Mahatma Gandhi\n"
+},{
+"The art of getting someone else to do something you want done because he\n"
+"wants to do it [Leadership].\n"
+"-- Dwight D. Enseinhover.\n"
+},{
+"No one is all evil. Everybody has a good side. If you keep waiting, it\n"
+"will comme up.\n"
+"-- Randy Pausch\n"
+},{
+"Experience is what you get when you don't get what you want.\n"
+"-- Cited by Randy Pausch\n"
+},{
+"Luck is where preparation meets opportunity.\n"
+"-- Randy Pausch\n"
+},{
+"Bonne bosse et reste le boss.\n"
+"-- Darryl Amedon\n"
+},{
+"The greatest of all weaknesses is the fear of appearing weak.\n"
+"-- J. B. Bossuet, Politics from Holy Writ, 1709\n"
+},{
+"It's easier to ask forgiveness than it is to get permission.\n"
+"-- Rear Admiral Dr. Grace Hopper\n"
+},{
+"An investment in knowledge always pays the best interest.\n"
+"-- Benjamin Franklin\n"
+},{
+"Natives who beat drums to drive off evil spirits are objects of scorn to\n"
+"smart Americans who blow horns to break up traffic jams.\n"
+"-- Mary Ellen Kelly\n"
+},{
+"A CS professor once explained recursion as follows:\n"
+"A child couldn't sleep, so her mother told her a story about a little frog,\n"
+"    who couldn't sleep, so the frog's mother told her a story about a little bear,\n"
+"         who couldn't sleep, so the bear's mother told her a story about a little weasel...\n"
+"            who fell asleep.\n"
+"        ...and the little bear fell asleep;\n"
+"    ...and the little frog fell asleep;\n"
+"...and the child fell asleep.\n"
+"-- everything2.com\n"
+},{
+"Never do the impossible. People will expect you to do it forever after.\n"
+"-- pigsandfishes.com\n"
+},{
+"Hire people smarter than you.  Work with people smarter than you.\n"
+"Listen to them. Let them lead you. Take the blame for all failures,\n"
+"give away the credit for all successes.\n"
+"-- How to fail: 25 secrets learned through failure\n"
+},{
+"Give up control. You never really had it anyway.\n"
+"-- How to fail: 25 secrets learned through failure\n"
+},{
+"Ne te mets pas de limite, la vie se chargera de la mettre a ta place.\n"
+"-- Darryl AMEDON\n"
+},{
+"Only two things are infinite, the universe and human stupidity. And I'm not so\n"
+"sure about the former.\n"
+"-- Albert Einstein\n"
+},{
+"The important thing is not to stop questioning.\n"
+"-- Albert Einstein\n"
+},{
+"Do not accept anything because it comes from the mouth of a respected person.\n"
+"-- Buddha\n"
+},{
+"Work as intensely as you play and play as intensely as you work.\n"
+"-- Eric S. Raymond, How To Be A Hacker\n"
+},{
+"A witty saying proves nothing\n"
+"-- Voltaire\n"
+},{
+"Sound methodology can empower and liberate the creative mind; it cannot inflame\n"
+"or inspire the drudge.\n"
+"-- Frederick P. Brooks, No Sliver Bullet.\n"
+},{
+"La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa\n"
+"correction.\n"
+"-- Daniel Lovewin (Guillaume Kpotufe)\n"
+},{
+"Je crois au flooding.\n"
+"-- Karim BAINA (en parlant du dailogue avec les administrations)\n"
+},{
+"Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la\n"
+"résolution au choix des moyens, du choix ds moyens à lapplication.\n"
+"-- Jean-François Paul de Gondi de Retz\n"
+},{
+"Do not spoil what you have by desiring what you have not; but remember that what\n"
+"you now have was once among the things only hoped for.\n"
+"-- Greek philosopher Epicurus\n"
+},{
+"Nobody can make you feel inferior without your consent.\n"
+"-- Eleanor Roosevelt\n"
+},{
+"If you tell the truth, you don't have to remember anything.\n"
+"-- Mark Twain\n"
+},{
+"You know you're in love when you can't fall asleep because reality is finally\n"
+"better than your dreams.\n"
+"-- Dr. Seuss\n"
+},{
+"The opposite of love is not hate, it's indifference.\n"
+"-- Elie Wiesel\n"
+},{
+"Life is what happens to you while you're busy making other plans.\n"
+"-- John Lennon\n"
+},{
+"Whenever you find yourself on the side of the majority, it is time to pause and\n"
+"reflect.\n"
+"-- Mark Twain\n"
+},{
+"To be yourself in a world that is constantly trying to make you something else\n"
+"is the greatest accomplishment.\n"
+"-- Ralph Waldo Emerson\n"
+},{
+"It is not a lack of love, but a lack of friendship that makes unhappy marriages.\n"
+"-- Friedrich Nietzsche\n"
+},{
+"In terms of energy, it's better to make a wrong choice than none at all.\n"
+"-- George Leonard, Mastery.\n"
+},{
+"Courage is grace under pressure.\n"
+"-- Ernest Hemingway\n"
+},{
+"Actually, the essence of boredom is to be found in the obsessive search for\n"
+"novelty. Satisfaction lies in mindful repetition, the discovery of endless\n"
+"richness in subtle variations on familiar themes.\n"
+"-- George Leonard, Mastery.\n"
+},{
+"Before enlightenment, chop wood and carry water.\n"
+"After enlightenment, chop wood and carry water.\n"
+"-- Ancient Eastern adage\n"
+},{
+"Acknowledging the negative doesn't mean sniveling [whining, complaining]; it\n"
+"means facing the truth and then moving on.\n"
+"-- George Leonard, Mastery.\n"
+},{
+"Whatever you can do, or dream you can, begin it. Boldness has genius, power, and\n"
+"magic in it.\n"
+"-- Goethe\n"
+},{
+"What we choose to fight is so tiny!\n"
+"What fights us is so great!\n"
+"...\n"
+"When we win it's with small things,\n"
+"and the triumph itself makes us small.\n"
+"...\n"
+"Winning does not tempt that man.\n"
+"This is how he grows: by being defeated, decisively,\n"
+"by constantly greater beings. \n"
+"-- Rainer Maria Rilke, The Man Watching.\n"
+},{
+"We fail to realize that mastery is not about perfection. It's about a process,\n"
+"a journey. The master is the one who stays on the path day after day, year after\n"
+"year. The master is the one who is willing to try, and fail, and try again, for\n"
+"as long as he or she lives.\n"
+"-- George Leonard, Mastery.\n"
+},{
+"Are you willing to wear your white belt?\n"
+"-- George Leonard, Mastery.\n"
+}
