@@ -18,7 +18,7 @@
 #include <time.h>
 #include <unistd.h>
 
-const uint32_t nb_quotes = 346;
+static const uint32_t nb_quotes = 346;
 
 typedef struct quote_t quote_t;
 struct quote_t {
